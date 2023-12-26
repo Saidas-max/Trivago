@@ -27,7 +27,6 @@ public class US_02PageSearch extends BasePage {
     public static WebElement Hotels;
 
 
-
 }
 
 
