@@ -1,3 +1,5 @@
+
+@Smoke
 @US03
 Feature: Verify that users can filter and sort search results effectively.
 

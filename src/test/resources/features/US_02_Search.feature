@@ -1,4 +1,4 @@
-
+@Smoke
 @US02
 Feature:Verify that user can use search functionalty by destination and by dates
 
